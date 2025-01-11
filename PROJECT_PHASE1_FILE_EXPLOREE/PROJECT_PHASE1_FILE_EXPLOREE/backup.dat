@@ -1,0 +1,40 @@
+{
+  "name": "/",
+  "isDirectory": true,
+  "content": "",
+  "createdAt": 1735307702,
+  "modifiedAt": 1735307702,
+  "fileSize": 0,
+  "owner": "root",
+  "permissions": 777,
+  "isSymLink": false,
+  "linkTarget": "",
+  "firstChild":   {
+    "name": "doc",
+    "isDirectory": true,
+    "content": "",
+    "createdAt": 1735307705,
+    "modifiedAt": 1735307705,
+    "fileSize": 0,
+    "owner": "root",
+    "permissions": 777,
+    "isSymLink": false,
+    "linkTarget": "",
+    "firstChild":     {
+      "name": "note.txt",
+      "isDirectory": false,
+      "content": "lingo",
+      "createdAt": 1735307721,
+      "modifiedAt": 1735307777,
+      "fileSize": 0,
+      "owner": "root",
+      "permissions": 777,
+      "isSymLink": false,
+      "linkTarget": "",
+      "firstChild": null,
+      "nextSibling": null
+    },
+    "nextSibling": null
+  },
+  "nextSibling": null
+}

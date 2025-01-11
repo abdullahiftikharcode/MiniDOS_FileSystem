@@ -1,0 +1,16 @@
+﻿  bscs23070_filesystem.cpp
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(9,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(164,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(205,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(255,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(290,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(334,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(400,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(404,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(460,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(497,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(591,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(656,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(706,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\PROJECT_PHASE1_FILE_EXPLOREE\bscs23070_filesystem.cpp(1007,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PROJECT_PHASE1_FILE_EXPLOREE.vcxproj -> C:\Users\jivot\source\repos\PROJECT_PHASE1_FILE_EXPLOREE\x64\Debug\PROJECT_PHASE1_FILE_EXPLOREE.exe
